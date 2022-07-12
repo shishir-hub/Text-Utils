@@ -1,0 +1,43 @@
+.color-pallet{
+    display: flex;
+}
+
+.red{
+    height: 20px;
+    width: 20px;
+    background-color: red;
+    border-radius: 25px;
+    cursor: pointer;
+}
+.red:hover, .blue:hover, .green:hover, .grey:hover, .yellow:hover{
+    height: 22px;
+    width: 22px;
+}
+.blue{
+    height: 20px;
+    width: 20px;
+    background-color: blue;
+    border-radius: 25px;
+    cursor: pointer;
+}
+.green{
+    height: 20px;
+    width: 20px;
+    background-color: green;
+    border-radius: 25px;
+    cursor: pointer;
+}
+.grey{
+    height: 20px;
+    width: 20px;
+    background-color: grey;
+    border-radius: 25px;
+    cursor: pointer;
+}
+.yellow{
+    height: 20px;
+    width: 20px;
+    background-color: yellow;
+    border-radius: 25px;
+    cursor: pointer;
+}
